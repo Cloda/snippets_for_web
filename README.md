@@ -1,1 +1,1 @@
-# snippets_for_web
+There is some snippets for reset CSS(custom).
